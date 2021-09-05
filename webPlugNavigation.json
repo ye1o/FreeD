@@ -584,6 +584,15 @@
       "click": true
     },
     {
+      "name": "酷酷兔(Web)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
+      "type": "webPlug",
+      "ads": "id=6933",
+      "webUrl": "http://kukutu8.com",
+      "webOpen": true,
+      "click": true
+    },
+    {
       "name": "奈非高清(Web)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
       "type": "webPlug",
